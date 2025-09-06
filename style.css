@@ -19,7 +19,7 @@ html, body {
   padding: 0;
   background: linear-gradient(180deg, var(--bg), #0b1025 60%);
   color: var(--text);
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Inter, Arial, sans-serif;
+  font-family: 'Fira Code', 'JetBrains Mono', 'Source Code Pro', Consolas, Monaco, monospace;
   line-height: 1.6;
 }
 
